@@ -1,4 +1,5 @@
 {
+  "name": "eslint-config-rocketseat",
   "devDependencies": {
     "eslint": "^5.16.0"
   },
